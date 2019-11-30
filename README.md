@@ -79,12 +79,12 @@ If there has any confusion, Please email me: zhouc@tcd.ie
 - ![6](https://github.com/Can-ZHOU/Picture-Reference/blob/master/6.gif)
 
 
-## Part One - GitHub Access
+## Part One - GitHub Access [See more details in each folder]
 ### Get data from GitHub 
 - I use Github GraphQL API with Node.js.
 - Using node-fetch to make HTTP requests with Node.js.
 
-## Part Two - Social Graph
+## Part Two - Social Graph [See more details in each folder]
 ### Analyse data  
 - This part is to analyze raw JOSN file and change the format of JSON file which is more suitable for data visualization.
 - About output file:
@@ -100,10 +100,10 @@ If there has any confusion, Please email me: zhouc@tcd.ie
 
 ### Data visualisation [A live demo is in showcase part]
 - I have visualized three types of data:
-    1. pie and Donut charts.
+    1. Pie and donut charts.
     2. Radial tidy tree.
     3. Zoomable sunburst.
-- Using D3.js and C3.js [A JavaScript library dependent on D3]
+- Using D3.js and C3.js JavaScript libraries.
 
 ### Showcase
 - A websit for live demo.
