@@ -4,7 +4,8 @@ Written by
 Can ZHOU (19324118)  
 If there has any confusion, Please email me: zhouc@tcd.ie
 
-## Click Here For **[Live Demo](https://can-zhou.github.io/CS3012/index.html)**
+## [Live Demo](https://can-zhou.github.io/CS3012/index.html)
+### I have built a websit to show the work. Click here for **[Live Demo](https://can-zhou.github.io/CS3012/index.html)**
 
 ![0_0](https://github.com/Can-ZHOU/Picture-Reference/blob/master/0_0.gif)
 ![0_1](https://github.com/Can-ZHOU/Picture-Reference/blob/master/0_1.gif)
