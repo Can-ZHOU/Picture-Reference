@@ -28,7 +28,8 @@ If there has any confusion, Please email me: zhouc@tcd.ie
    - Who submitted it.
 
 ### Pie and Donut Charts -- Overview: [Quick Link](https://can-zhou.github.io/CS3012/Pie_Chart_Sum.html)
--  The charts show the information of D3 sub-repos which have the top five star number.
+- The charts show the information of D3 sub-repos which have the top five star number.
+- The upper chart shows the value and underlayer shows the percentage.
 - This is a flowing chart.  
   With this order:
     - Fork Count pie chart.
@@ -39,29 +40,32 @@ If there has any confusion, Please email me: zhouc@tcd.ie
     - Start Count donut chart.
 - Charts have those functions as well:
     - Mouse over the sector / arc to focus on specific data.
-    - Mouse over the label below each chart to focus on specific data.
-    - Click on the label below each chart to hide specific data.
+    - Mouse over the legend below each chart to focus on specific data.
+    - Click on the legend below each chart to hide specific data.
 
 ### Pie and Donut Charts -- Start Count: [Quick Link](https://can-zhou.github.io/CS3012/Pie_Chart_Star_Count.html)
 - Pie and donut charts show the total stars number of D3 sub-repos which have the top five star number.
+- The upper chart shows the value and underlayer shows the percentage.
 - Charts have those functions as well:
     - Mouse over the sector / arc to focus on specific data.
-    - Mouse over the label below each chart to focus on specific data.
-    - Click on the label below each chart to hide specific data.
+    - Mouse over the legend below each chart to focus on specific data.
+    - Click on the legend below each chart to hide specific data.
 
 ### Pie and Donut Charts -- Fork Count: [Quick Link](https://can-zhou.github.io/CS3012/Pie_Chart_Fork_Count.html)
 - Pie and donut charts show the total fork count of D3 sub-repos which have the top five star number.
+- The upper chart shows the value and underlayer shows the percentage.
 - Charts have those functions as well:
     - Mouse over the sector / arc to focus on specific data.
-    - Mouse over the label below each chart to focus on specific data.
-    - Click on the label below each chart to hide specific data.
+    - Mouse over the legend below each chart to focus on specific data.
+    - Click on the legend below each chart to hide specific data.
 
 ### Pie and Donut Charts -- Disk Usage: [Quick Link](https://can-zhou.github.io/CS3012/Pie_Chart_Disk_Usage.html)
 - Pie and donut charts show the total disk usage of D3 sub-repos which have the top five star number.
+- The upper chart shows the value and underlayer shows the percentage.
 - Charts have those functions as well:
     - Mouse over the sector / arc to focus on specific data.
-    - Mouse over the label below each chart to focus on specific data.
-    - Click on the label below each chart to hide specific data.
+    - Mouse over the legend below each chart to focus on specific data.
+    - Click on the legend below each chart to hide specific data.
 
 
 ## Part One - GitHub Access
