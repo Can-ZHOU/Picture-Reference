@@ -119,3 +119,9 @@ If there has any confusion, Please email me: zhouc@tcd.ie
 
 ### Run the code in Showcase
 - Click here for **[Live Demo](https://can-zhou.github.io/CS3012/index.html)**
+
+## Library used & reference
+- **[D3.js](https://d3js.org/)**
+- **[C3.js](https://c3js.org/)** [ D3-based reusable chart library ]
+- **[Sunburst Example](https://codepen.io/denjn5/pen/bwwoAy)** [ I have learnt and moidied code from this websit ]
+- **[Radial Tidy Tree Example](https://bl.ocks.org/FrissAnalytics/ffbd3cb71848616957cd4c0f41738aec)** [ I have learnt and moidied code from this websit ]
