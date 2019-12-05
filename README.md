@@ -1,4 +1,4 @@
-## CS3012 Software Engineering Assignment 5: **Social Graph Project**  
+## CS3012 Software Engineering Assignment 5: **Social Graph Project [[Live Demo]](https://can-zhou.github.io/CS3012/index.html)**  
 
 Written by  
 Can ZHOU (19324118)  
