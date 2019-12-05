@@ -26,6 +26,10 @@ https://can-zhou.github.io/CS3012/index.html**
 ## [Live Demo](https://can-zhou.github.io/CS3012/index.html)
 ### I have built a website to show the work. Click here for **[Live Demo](https://can-zhou.github.io/CS3012/index.html)**
 
+![0_0](https://github.com/Can-ZHOU/Picture-Reference/blob/master/0_0.gif)
+![0_1](https://github.com/Can-ZHOU/Picture-Reference/blob/master/0_1.gif)
+![0_2](https://github.com/Can-ZHOU/Picture-Reference/blob/master/0_2.gif)
+
 ### Zoomable Sunburst Graph: [Quick Link](https://can-zhou.github.io/CS3012/Zoomable_Sunburst.html)
 - The D3 sub-repos which star number is in the top five in total.
 - Showing the latest 3 people's name who fork, submit issue, star to those repos (2019-11-29).
