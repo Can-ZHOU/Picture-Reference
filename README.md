@@ -27,7 +27,7 @@ https://can-zhou.github.io/CS3012/index.html**
 ### I have built a website to show the work. More detiles are displayed in websites.
 ### **Click here for [Live Demo !](https://can-zhou.github.io/CS3012/index.html)**
 
-
+## Graphs & Charts Categories
 ### Zoomable Sunburst Graph: [Quick Link](https://can-zhou.github.io/CS3012/Zoomable_Sunburst.html)
 - The D3 sub-repos which star number is in the top five in total.
 - Showing the latest 3 people's name who fork, submit issue, star to those repos (2019-11-29).
