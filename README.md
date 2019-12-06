@@ -181,7 +181,7 @@ https://can-zhou.github.io/CS3012/index.html**
 ### Run the code in Showcase
 - Click here for **[Live Demo](https://can-zhou.github.io/CS3012/index.html)**
 
-## Librarys & Reference
+## Library & Reference
 - **[D3.js](https://d3js.org/)**
 - **[C3.js](https://c3js.org/)** [ D3-based reusable chart library ]
 - **[Sunburst Example](https://codepen.io/denjn5/pen/bwwoAy)** [ I have learnt and moidied code from this website ]
