@@ -21,7 +21,6 @@ https://can-zhou.github.io/CS3012/index.html**
     - Analysing commit in each month and each year can let us know more developers' coding habits and repo/project construction status every year and month.
     - Gain star/fork information can show which sub-repo is more popular and have more developers to involve the project.
     - Gain disk usage information can show the disk space for the sub-repo, so the developers can manage the projects better.
-    - Because many D3 sub-repos have a lot of useless data, I selected some repo and data for analysis.
 
 ## [Live Demo](https://can-zhou.github.io/CS3012/index.html)
 ### I have built a website to show the work. More detiles are displayed in websites.
